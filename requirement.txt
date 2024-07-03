@@ -1,5 +1,4 @@
 dash==2.14.2
-gunicornplotly==5.9
-dashtools
+gunicorn
+plotly==5.9
 pandas==2.1.4
-dash_bootstrap_components
