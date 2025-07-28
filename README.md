@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Computer Science student doing my Bachelor Degree currently
-### I'm getting used to GitHUb account and make some updates to know it better.
+### I'm getting used to GitHUb account and doing some updates to get to know it.
+### 
 
 <!--
 **Supr-giff/Supr-giff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
